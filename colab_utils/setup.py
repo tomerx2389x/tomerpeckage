@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='colab_utils',
+    name='tomerpeckage',
     version='0.1.0',
     description='A custom library for Google Colab',
     author='User',
